@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Programming Language</string>
+
+    <string-array name="programming_language">
+
+
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Phyton</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+
+    </string-array>
+
+
+    <string-array name="decription">
+
+
+        <item>C Dili ve Özellikleri</item>
+        <item>C++ Dili ve Özellikleri</item>
+        <item>C# Dili ve Özellikleri</item>
+        <item>Java Dili ve Özellikleri</item>
+        <item>JS Dili ve Özellikleri</item>
+        <item>Kotlin Dili ve Özellikleri</item>
+        <item>Phyton Dili ve Özellikleri</item>
+        <item>Ruby Dili ve Özellikleri</item>
+        <item>Swift Dili ve Özellikleri</item>
+
+    </string-array>
+
+
+    <string-array name="content">
+
+
+        <item>1970lerin başında Ken Thompson ve Dennis Ritchie tarafından UNIX İşletim Sistemi için 1972 yılında geliştirilmiş bir C programlama dili , günümüzde neredeyse tüm işletim sistemlerinde kullanılmaktadır.
+            Dünyanın en çok kullanılan sistem programlama dilidir
+            C dili Özellikleri
+            Güvenilirlik
+            taşınabilirlik
+            Esneklik
+            Etkileşim
+            Modülarite
+            Verimlilik ve Etkinlik
+            C Dili ile Neler Yapılır ve Kullanım Alanları Nereler
+            İşletim sistemi tasarlamak için kullanılabilir.
+            Yüksek seviye dil ile düşük seviye dillerin haberleşmesini sağlamak için derleyici tasarlanabilir.
+            Kernel programlama ile kendi işletim sistemini yapabilirsin
+            Elektronik, endüstriyel ve iletişim ürünlerine yazılımlar geliştirilebilir.</item>
+        <item>C++ geliştirilmesinden sonra tüm dünyada en yaygın kullanılan programlama dillerinden biri olmuştur. Özellikle söz konusu performans olduğunda C++ daima ilk seçim olmaktadır zira diğer programlama dilleriyle kıyaslandığında C++ çok daha fazla güncellenen bir yazılım dilidir.
+            C++ yazılım dili kullanılarak geliştiriciler tarafından sistem yazılımları, özel yazılımlar, uygulamalar, sürücü yazılımları, kullanıcı taraflı yazılımlar ve gömülü firmware yazılımlar üretilmektedir.  Bugün bilgisayarınızda kullanmakta olduğunuz birçok donanımın dahi sürücüsü C++ programlama dili sayesinde hazırlanmış ve son kullanıcıların kullanımına tahsis edilmiştir.</item>
+        <item>
+            C++ ın nesneye yönelik tarafı ve Java dilinin Platform bağımsızlığını birleştiren yeni nesil programlama dilidir.
+            Yani %100 nesneye yönelik, C++ veya C den çok daha kolay ve Yazdığınız kodu frameworkun çalıştığı her işletim sisteminde çalıştırabilirsiniz.
+            C# ile şunları yapabilirsiniz:
+            Konsol uygulaması geliştirme
+            Windows uygulaması geliştirme
+            ASP.NET uygulaması geliştirme
+            Web servisleri yazma
+            Mobil uygulama geliştirme (PDA, cep telefonları vb. için)
+            DLL yazma</item>
+         <item>Java 1990 lar da Sun Microsystem tarafından geliştirilmeye başlanıldı.
+              Java üst düzey bir programlama dilidir.
+              Java nesne tabanlı ve genel amaçlar için kullanılan kapsamlı bir yapısı bulunmaktadır.
+              Java’nın sahip olduğu özellikler,
+              Nesne Yönelimlidir.
+              Platformdan bağımsızdır.
+              Açık Kaynak Kodludur.
+              Çok Fonksiyonludur.
+
+              Java Nerelerde Kullanılır
+              Masaüstü Uygulamalarda
+              Web Uygulamalarında
+              Mobil Uygulamalarda
+              Gömülü Sistemlerde
+              Oyunlarda</item>
+<item>JavaScript, yaygın olarak web tarayıcılarında kullanılmakta olan bir betik dilidir.
+    JavaScript ile yazılan istemci tarafı betikler sayesinde tarayıcının kullanıcıyla etkileşimde bulunması, tarayıcının kontrol edilmesi, asenkron bir şekilde sunucu ile iletişime geçilmesi ve web sayfası içeriğinin değiştirilmesi gibi işlevler sağlanır.
+    JavaScript, Node.js gibi platformlar sayesinde sunucu tarafında da yaygın olarak kullanılmaktadır
+ Javascript;
+Bir compiler (derleyici) kullanmanız gerekmez çünkü web tarayıcıları HTML ile yorumlar
+Diğer yazılım dillerine nazaran öğrenmesi daha kolaydır
+Hataları bulmak dolayısıyla çözmek daha kolaydır
+Belirli web sayfası öğelerine veya özel durumlara ayarlanabilir, örneğin fare tıklaması veya imleci üzerine getirme gibi
+JS birden fazla platformda, tarayıcıda çalışabilir
+JavaScript kullanarak input değerlendirebilir ve manuel very kontrollerini azaltabilirsiniz
+Web siteleri daha interaktif yapar ve ziyaretçilerin dikkatini çeker
+Diğer yazılım dillerinden daha hızlı ve hafiftir.</item>
+<item>Kotlin Jetbrain tarafından desteklenen Java sanal makinesi (JVM) üzerinde çalışan ve ayrıca Javascript kaynak koduna derlenebilir statşk tipli bir programlama dilidir.
+Bir çok Kotlin özelliği performanstan ve güvenlikten gözardı etmeden Javadan daha sade ve anlaşılabilir kodu etkinleştirir.
+Kotlin, bytecodea derlendiğinden, Java kadar iyi performans gösterebilir. Derleme zamanlarını ve kontrolleri(null kontrolleri gibi) kıyasladığımızda hızlarının aynı olduğu görülmektedir.En önemlisi Kotlinin dil özellikleri ve standart kütüphane işlevleri kısaca etkili kodu etkinleştirir.</item>
+<item>Python programlama dili veri bilimi, makine öğrenimi, sistem otomasyonu, web ve API geliştirme ve daha fazlası için bir temel yapıdır.
+Python programlama dili ile konsol uygulamaları ve çoklu platformlara GUI uygulamaları oluşturabilirsiniz. Bunları bağım kurulum dosyları olarak kullanabilirsiniz. Python ile oluşturulan bir Script kendi başına bir binary serisi oluşturamaz, ancak  cx_Freeze and PyInstaller üçüncü taraf programlar sayesinde durum imkansızdan münküne dönüşmektedir</item>
+<item>Ruby, nesneye yönelik  bir programlama dilidir. Ruby dili, Yukihiro Matsumoto tarafından Japonyada tasarlanmaya ve geliştirilmeye başlanmıştır. Sözdizimi olarak, Ada, Perl, Smalltalk, Lisp, Eiffel gibi programlama dillerinden etkilenen Ruby; Python ile kimi ortak sözdizimi özelliklerine sahiptir. Fonksiyonel, nesneye yönelik, dinamik, reflektif gibi çoklu programlama paradigmalarını destekler.
+    Özgür bir yazılım olan Ruby; GPL ve Ruby lisansı ile lisanslanmıştır</item>
+<item>Swift, Apple tarafından iOS ve macOS platformlarına iOS ve Mac uygulamaları geliştirmek için oluşturulan, derlenerek çalışan güçlü ve kullanımı kolay, nesne yönelimli bir programlama dili.
+    İlk olarak WWDC 2014 konferansında duyrulmuştur.</item>
+
+    </string-array>
+    </resources>
